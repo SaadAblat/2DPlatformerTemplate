@@ -361,3 +361,23 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Builds
+/Library
+/Temp
+/ProjectSettings
+/UserSettings
+*.vsconfig
+*.sln
+/Assets/Sprites
+/Assets/Sounds
+/Assets/Settings
+/Assets/Scenes
+/Assets/Prefabs
+/Assets/Materiels
+/Assets/Animations
+/Assets/TextMesh Pro
+/Assembly-CSharp.csproj
+*.asset
+/Assets/Explosion.controller
+/Assets/Explosion.anim
+/Assets/BackGroundRocks.aseprite
